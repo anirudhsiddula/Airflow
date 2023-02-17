@@ -1,5 +1,5 @@
 logs/
-./airflow.db
+airflow.db
 
 # Webserver temp
 airflow-webserver.pid
