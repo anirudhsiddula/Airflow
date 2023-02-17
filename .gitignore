@@ -1,2 +1,2 @@
 logs/
-airflow.db
+./airflow.db
